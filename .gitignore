@@ -1,0 +1,5 @@
+*.dmp
+Backup/
+Screenshots/
+CrashAutoSave.*.toe
+*.*.toe
